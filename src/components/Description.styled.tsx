@@ -8,7 +8,7 @@ export const StyledDescription = styled.div`
 
 
     border: 1px solid #00bbff;
-    color: crimson;
+    color: #21dc14;
 
 < StyledDescriptionText > < / StyledDescriptionText >
 
