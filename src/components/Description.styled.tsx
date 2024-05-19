@@ -7,7 +7,7 @@ export const StyledDescription = styled.div`
     margin-left: 20px;
 
 
-    border: 1px solid #7bff00;
+    border: 1px solid #00bbff;
 
 < StyledDescriptionText > < / StyledDescriptionText >
 
